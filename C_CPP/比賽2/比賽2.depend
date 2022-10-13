@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600342091 source:c:\users\jacky\desktop\程式\比賽2\main.cpp
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<iostream>
+
